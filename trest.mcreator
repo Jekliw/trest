@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pop"
+    },
+    {
+      "name": "Saddle",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saddle"
     }
   ],
   "variable_elements": [],
