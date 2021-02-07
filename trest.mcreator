@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jabko"
+    },
+    {
+      "name": "Pop",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pop"
     }
   ],
   "variable_elements": [],
