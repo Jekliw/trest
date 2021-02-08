@@ -28,7 +28,8 @@
       "trest:hos"
     ],
     "recipes": [
-      "trest:jabko"
+      "trest:jabko",
+      "trest:fe"
     ]
   }
 }
