@@ -99,6 +99,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "order_77"
+    },
+    {
+      "name": "Fe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fe"
     }
   ],
   "variable_elements": [],
