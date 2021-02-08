@@ -108,6 +108,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fe"
+    },
+    {
+      "name": "TERES",
+      "type": "achievement",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "teres"
     }
   ],
   "variable_elements": [],

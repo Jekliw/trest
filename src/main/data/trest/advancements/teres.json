@@ -1,0 +1,34 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:end_portal"
+    },
+    "title": "you seek the power, now jump!",
+    "description": "stwórz ramê portalu do endu",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "teres": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:end_portal_frame"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 81,
+    "function": "trest:order77",
+    "loot": [
+      "trest:hos"
+    ],
+    "recipes": [
+      "trest:jabko"
+    ]
+  }
+}
