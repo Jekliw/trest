@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "saddle"
+    },
+    {
+      "name": "Ef",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ef"
     }
   ],
   "variable_elements": [],
