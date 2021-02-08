@@ -72,6 +72,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ef"
+    },
+    {
+      "name": "Hos",
+      "type": "loottable",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hos"
+    },
+    {
+      "name": "Order66",
+      "type": "function",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "order_66"
+    },
+    {
+      "name": "Order77",
+      "type": "function",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "order_77"
     }
   ],
   "variable_elements": [],

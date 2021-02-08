@@ -1,0 +1,9 @@
+{
+  "_fv": 13,
+  "_type": "function",
+  "definition": {
+    "code": "public class CommandKit implements CommandExecutor {\n\n    // This method is called, when somebody uses our command\n    @Override\n    public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {\n        if (sender instanceof Player) {\n            Player player = (Player) sender;\n\n            // Create a new ItemStack (type: diamond)\n            ItemStack diamond = new ItemStack(Material.DIAMOND);\n\n            // Create a new ItemStack (type: brick)\n            ItemStack bricks = new ItemStack(Material.BRICK);\n\n            // Set the amount of the ItemStack\n            bricks.setAmount(20);\n\n            // Give the player our items (comma-seperated list of all ItemStack)\n            player.getInventory().addItem(bricks, diamond);\n        }\n\n        // If the player (or console) uses our command correct, we can return true\n        return true;\n    }",
+    "name": "order66",
+    "namespace": "mod"
+  }
+}

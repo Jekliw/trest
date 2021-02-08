@@ -1,0 +1,2 @@
+effect give @p mincraft:absorption 999999 25 true
+give @a minecraft:iron_sword{display:{Name:'[{"text":"Light Saber","italic":true,"obfuscated":true,"bold":true}]',Lore:['[{"text":"You need to do a order 77","italic":false}]']},Enchantments:[{id:bane_of_arthropods,lvl:5},{id:fire_aspect,lvl:1},{id:knockback,lvl:13},{id:looting,lvl:2},{id:sharpness,lvl:5},{id:smite,lvl:5},{id:sweeping,lvl:3}]} 1
